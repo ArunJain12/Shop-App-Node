@@ -1,0 +1,18 @@
+{
+  "name": "shop-app",
+  "version": "1.0.0",
+  "description": "Dummy Catalog Data Online Purchasing App",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "ejs": "3.1.5",
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
